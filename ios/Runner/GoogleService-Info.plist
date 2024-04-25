@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>716049414488-buvrnbsbogc7rehdc3li7qus491qrbtt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.716049414488-buvrnbsbogc7rehdc3li7qus491qrbtt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5Tp1mqiKS73i-KuGWkGLruBlXj6GRzVI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>716049414488</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.glowguidance</string>
+	<key>PROJECT_ID</key>
+	<string>glow-guidance-02</string>
+	<key>STORAGE_BUCKET</key>
+	<string>glow-guidance-02.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:716049414488:ios:1e3a877a6f293c90f00d2d</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "716049414488",
+    "project_id": "glow-guidance-02",
+    "storage_bucket": "glow-guidance-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716049414488:android:79218753adc7b1aaf00d2d",
+        "android_client_info": {
+          "package_name": "com.mycompany.glowguidance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716049414488-90r36mpdtkpsh8dqs3bj1s5dqi3viod1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCETUvq1LCZvC7YFholrDx9igcK6wfIjcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716049414488-90r36mpdtkpsh8dqs3bj1s5dqi3viod1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716049414488-buvrnbsbogc7rehdc3li7qus491qrbtt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.glowguidance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
